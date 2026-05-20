@@ -18,6 +18,6 @@ public class Student{
     }
 
     public double getCgpa(){
-        return cpga;
+        return cgpa;
     }
 }
